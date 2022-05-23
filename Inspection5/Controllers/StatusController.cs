@@ -10,7 +10,7 @@ using Inspection5.Data;
 
 namespace Inspection5.Controllers
 {
-    [Route("api/[controllerewe]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class StatusController : ControllerBase
     {
